@@ -14,3 +14,5 @@ You may contribute your message through a pull request (see the git lecture if n
 
 * Giovanni Cozzolongo: thank you for this cool Summer School!
 
+* This summer school was really helpful and a lot of fun! Thanks to all the lecturers for a really great learning experience! - Ashwin V George
+
